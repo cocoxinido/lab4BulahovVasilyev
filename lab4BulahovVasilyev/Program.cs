@@ -10,6 +10,7 @@ namespace lab4BulahovVasilyev
     {
         static void Main(string[] args)
         {
+            ihdjvfiugsdfviugsdf
         }
     }
 }
